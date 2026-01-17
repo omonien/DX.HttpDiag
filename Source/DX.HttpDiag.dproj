@@ -72,16 +72,24 @@
         <DCC_Namespace>System.Win;Data.Win;Datasnap.Win;Web.Win;Soap.Win;Xml.Win;Bde;$(DCC_Namespace)</DCC_Namespace>
         <BT_BuildType>Debug</BT_BuildType>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
-        <VerInfo_Keys>CompanyName=;FileDescription=DX.HttpDiag - HTTPS URL Diagnostic Tool;FileVersion=1.0.0.0;InternalName=;LegalCopyright=Copyright (c) 2025 Olaf Monien;LegalTrademarks=;OriginalFilename=;ProductName=DX.HttpDiag;ProductVersion=1.0.0.0;Comments=</VerInfo_Keys>
+        <VerInfo_Keys>CompanyName=Olaf Monien;FileDescription=HTTPS URL Diagnostic Tool for Windows;FileVersion=1.0.0.0;InternalName=DX.HttpDiag;LegalCopyright=Copyright (c) 2026 Olaf Monien - MIT License;LegalTrademarks=;OriginalFilename=DX.HttpDiag.exe;ProductName=DX.HttpDiag;ProductVersion=1.0.0;Comments=Diagnose HTTPS connectivity, certificates, DNS and proxy settings</VerInfo_Keys>
         <VerInfo_Locale>1033</VerInfo_Locale>
+        <VerInfo_MajorVer>1</VerInfo_MajorVer>
+        <VerInfo_MinorVer>0</VerInfo_MinorVer>
+        <VerInfo_Release>0</VerInfo_Release>
+        <VerInfo_Build>0</VerInfo_Build>
         <Manifest_File>None</Manifest_File>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Base_Win64)'!=''">
         <DCC_Namespace>System.Win;Data.Win;Datasnap.Win;Web.Win;Soap.Win;Xml.Win;$(DCC_Namespace)</DCC_Namespace>
         <BT_BuildType>Debug</BT_BuildType>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
-        <VerInfo_Keys>CompanyName=;FileDescription=DX.HttpDiag - HTTPS URL Diagnostic Tool;FileVersion=1.0.0.0;InternalName=;LegalCopyright=Copyright (c) 2025 Olaf Monien;LegalTrademarks=;OriginalFilename=;ProductName=DX.HttpDiag;ProductVersion=1.0.0.0;Comments=</VerInfo_Keys>
+        <VerInfo_Keys>CompanyName=Olaf Monien;FileDescription=HTTPS URL Diagnostic Tool for Windows;FileVersion=1.0.0.0;InternalName=DX.HttpDiag;LegalCopyright=Copyright (c) 2026 Olaf Monien - MIT License;LegalTrademarks=;OriginalFilename=DX.HttpDiag.exe;ProductName=DX.HttpDiag;ProductVersion=1.0.0;Comments=Diagnose HTTPS connectivity, certificates, DNS and proxy settings</VerInfo_Keys>
         <VerInfo_Locale>1033</VerInfo_Locale>
+        <VerInfo_MajorVer>1</VerInfo_MajorVer>
+        <VerInfo_MinorVer>0</VerInfo_MinorVer>
+        <VerInfo_Release>0</VerInfo_Release>
+        <VerInfo_Build>0</VerInfo_Build>
         <Manifest_File>None</Manifest_File>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_1)'!=''">
